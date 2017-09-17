@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\projects\\401d1\\BuildingAZoo\\BuildingAZoo\\BuildingAZoo\\BuildingAZoo.csproj",
+      "projectUniqueName": "C:\\Projects\\BuldingAZoo\\BuildingAZoo\\BuildingAZoo\\BuildingAZoo.csproj",
       "projectName": "BuildingAZoo",
-      "projectPath": "C:\\projects\\401d1\\BuildingAZoo\\BuildingAZoo\\BuildingAZoo\\BuildingAZoo.csproj",
+      "projectPath": "C:\\Projects\\BuldingAZoo\\BuildingAZoo\\BuildingAZoo\\BuildingAZoo.csproj",
       "packagesPath": "C:\\Users\\Drago\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\401d1\\BuildingAZoo\\BuildingAZoo\\BuildingAZoo\\obj\\",
+      "outputPath": "C:\\Projects\\BuldingAZoo\\BuildingAZoo\\BuildingAZoo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
