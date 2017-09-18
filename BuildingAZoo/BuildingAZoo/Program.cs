@@ -7,7 +7,11 @@ namespace BuildingAZoo
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Rattlesnake sammyTheSnake = new Rattlesnake();
+            sammyTheSnake.Eat();
+            sammyTheSnake.Move();
+            Console.WriteLine(sammyTheSnake.IsColdBlooded);
+            Console.Read();
         }
     }
 }
